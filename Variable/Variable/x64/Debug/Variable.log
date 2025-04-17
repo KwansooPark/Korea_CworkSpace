@@ -1,0 +1,2 @@
+﻿TypeConversion.obj : error LNK2019: printmain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\C_works\Variable\x64\Debug\Variable.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
