@@ -1,2 +1,11 @@
-﻿  Swap.c
-  Operator.vcxproj -> C:\C_works\Operator\x64\Debug\Operator.exe
+﻿  BitOperator.c
+  ConstantEx.c
+  OperatorEx1.c
+  OperatorEx2.c
+  Swap.c
+C:\cworks\Operator\Operator\ConstantEx.c(27,21): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\cworks\Operator\Operator\ConstantEx.c(29,9): warning C4477: 'printf' : 서식 문자열 '%.2lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  코드를 생성하고 있습니다...
+ConstantEx.obj : error LNK2005: main이(가) BitOperator.obj에 이미 정의되어 있습니다.
+Swap.obj : error LNK2005: main이(가) BitOperator.obj에 이미 정의되어 있습니다.
+C:\cworks\Operator\x64\Debug\Operator.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
