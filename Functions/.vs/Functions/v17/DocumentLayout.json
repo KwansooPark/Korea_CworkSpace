@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\cworks\\Functions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\FindMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|solutionrelative:Functions\\FindMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\RandEX.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|solutionrelative:Functions\\RandEX.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\dateTimeEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|solutionrelative:Functions\\dateTimeEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\TimeEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|solutionrelative:Functions\\TimeEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\MathEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|solutionrelative:Functions\\MathEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\ReturnFunctions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|solutionrelative:Functions\\ReturnFunctions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\Shape.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|solutionrelative:Functions\\Shape.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\StaticVar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|solutionrelative:Functions\\StaticVar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\Globalvar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|solutionrelative:Functions\\Globalvar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\FindMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|solutionrelative:Functions\\FindMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7AF0EF56-44E7-4534-8C49-45F29A21ABB2}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\SayHello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -27,19 +55,108 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FindMax.c",
-              "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\FindMax.c",
-              "RelativeDocumentMoniker": "Functions\\FindMax.c",
-              "ToolTip": "C:\\cworks\\Functions\\Functions\\FindMax.c",
-              "RelativeToolTip": "Functions\\FindMax.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Title": "RandEX.c",
+              "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\RandEX.c",
+              "RelativeDocumentMoniker": "Functions\\RandEX.c",
+              "ToolTip": "C:\\cworks\\Functions\\Functions\\RandEX.c",
+              "RelativeToolTip": "Functions\\RandEX.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-01T12:42:57.964Z",
+              "WhenOpened": "2025-05-08T12:46:37.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DateTimeEx.c",
+              "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\DateTimeEx.c",
+              "RelativeDocumentMoniker": "Functions\\DateTimeEx.c",
+              "ToolTip": "C:\\cworks\\Functions\\Functions\\DateTimeEx.c",
+              "RelativeToolTip": "Functions\\DateTimeEx.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-08T12:38:12.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimeEx.c",
+              "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\TimeEx.c",
+              "RelativeDocumentMoniker": "Functions\\TimeEx.c",
+              "ToolTip": "C:\\cworks\\Functions\\Functions\\TimeEx.c",
+              "RelativeToolTip": "Functions\\TimeEx.c",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-08T12:14:13.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MathEx.c",
+              "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\MathEx.c",
+              "RelativeDocumentMoniker": "Functions\\MathEx.c",
+              "ToolTip": "C:\\cworks\\Functions\\Functions\\MathEx.c",
+              "RelativeToolTip": "Functions\\MathEx.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-08T11:51:17.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shape.c",
+              "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\Shape.c",
+              "RelativeDocumentMoniker": "Functions\\Shape.c",
+              "ToolTip": "C:\\cworks\\Functions\\Functions\\Shape.c",
+              "RelativeToolTip": "Functions\\Shape.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-08T11:30:12.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StaticVar.c",
+              "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\StaticVar.c",
+              "RelativeDocumentMoniker": "Functions\\StaticVar.c",
+              "ToolTip": "C:\\cworks\\Functions\\Functions\\StaticVar.c",
+              "RelativeToolTip": "Functions\\StaticVar.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-08T10:33:51.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalVar.c",
+              "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\GlobalVar.c",
+              "RelativeDocumentMoniker": "Functions\\GlobalVar.c",
+              "ToolTip": "C:\\cworks\\Functions\\Functions\\GlobalVar.c",
+              "RelativeToolTip": "Functions\\GlobalVar.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-08T10:16:53.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FindMax.c",
+              "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\FindMax.c",
+              "RelativeDocumentMoniker": "Functions\\FindMax.c",
+              "ToolTip": "C:\\cworks\\Functions\\Functions\\FindMax.c",
+              "RelativeToolTip": "Functions\\FindMax.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-01T12:42:57.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ReturnFunctions.c",
               "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\ReturnFunctions.c",
               "RelativeDocumentMoniker": "Functions\\ReturnFunctions.c",
@@ -52,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "SayHello.c",
               "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\SayHello.c",
               "RelativeDocumentMoniker": "Functions\\SayHello.c",
@@ -60,8 +177,7 @@
               "RelativeToolTip": "Functions\\SayHello.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-01T12:10:03.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T12:10:03.514Z"
             }
           ]
         }
