@@ -1,0 +1,11 @@
+﻿  typedefEmployee.c
+C:\cworks\Structs\Structs\typedefEmployee.c(30,10): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xe3'이(가) 있습니다.
+C:\cworks\Structs\Structs\typedefEmployee.c(30,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\cworks\Structs\Structs\typedefEmployee.c(30,10): warning C4313: 'printf': 서식 문자열의 '%s'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+C:\cworks\Structs\Structs\typedefEmployee.c(30,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\cworks\Structs\Structs\typedefEmployee.c(30,10): warning C4313: 'printf': 서식 문자열의 '%d'이(가) char *' 형식의 인수 2과(와) 충돌합니다.
+C:\cworks\Structs\Structs\typedefEmployee.c(31,28): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+      C:\cworks\Structs\Structs\typedefEmployee.c(31,28):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 3개가 제공되었습니다.
+  
+  Structs.vcxproj -> C:\cworks\Structs\x64\Debug\Structs.exe
