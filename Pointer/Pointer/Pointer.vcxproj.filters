@@ -57,5 +57,17 @@
     <ClCompile Include="Test.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="calcSum2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="findMax.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="findMaxIdx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="randCoin.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
