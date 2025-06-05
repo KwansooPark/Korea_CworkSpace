@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\MemoryAllocation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34C56528-7620-427F-AA02-F9EE4100756F}|MemoryAllocation\\MemoryAllocation.vcxproj|C:\\cworks\\MemoryAllocation\\MemoryAllocation\\TypingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34C56528-7620-427F-AA02-F9EE4100756F}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\TypingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C56528-7620-427F-AA02-F9EE4100756F}|MemoryAllocation\\MemoryAllocation.vcxproj|C:\\cworks\\MemoryAllocation\\MemoryAllocation\\strtokEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34C56528-7620-427F-AA02-F9EE4100756F}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\strtokEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C56528-7620-427F-AA02-F9EE4100756F}|MemoryAllocation\\MemoryAllocation.vcxproj|C:\\cworks\\MemoryAllocation\\MemoryAllocation\\mallocChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34C56528-7620-427F-AA02-F9EE4100756F}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\mallocChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TypingGame.c",
+              "DocumentMoniker": "C:\\cworks\\MemoryAllocation\\MemoryAllocation\\TypingGame.c",
+              "RelativeDocumentMoniker": "MemoryAllocation\\TypingGame.c",
+              "ToolTip": "C:\\cworks\\MemoryAllocation\\MemoryAllocation\\TypingGame.c*",
+              "RelativeToolTip": "MemoryAllocation\\TypingGame.c*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-29T10:44:57.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "strtokEx.c",
+              "DocumentMoniker": "C:\\cworks\\MemoryAllocation\\MemoryAllocation\\strtokEx.c",
+              "RelativeDocumentMoniker": "MemoryAllocation\\strtokEx.c",
+              "ToolTip": "C:\\cworks\\MemoryAllocation\\MemoryAllocation\\strtokEx.c",
+              "RelativeToolTip": "MemoryAllocation\\strtokEx.c",
+              "ViewState": "AgIAABcAAAAAAAAAAAAywCgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-29T10:26:01.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mallocChar.c",
+              "DocumentMoniker": "C:\\cworks\\MemoryAllocation\\MemoryAllocation\\mallocChar.c",
+              "RelativeDocumentMoniker": "MemoryAllocation\\mallocChar.c",
+              "ToolTip": "C:\\cworks\\MemoryAllocation\\MemoryAllocation\\mallocChar.c",
+              "RelativeToolTip": "MemoryAllocation\\mallocChar.c",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAywDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-29T10:08:49.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

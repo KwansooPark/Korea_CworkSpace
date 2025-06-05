@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\FileIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD39322-F040-416E-922D-118FAE9DDAF3}|FileIO\\FileIO.vcxproj|C:\\cworks\\FileIO\\FileIO\\imageCopy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD39322-F040-416E-922D-118FAE9DDAF3}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\imageCopy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD39322-F040-416E-922D-118FAE9DDAF3}|FileIO\\FileIO.vcxproj|C:\\cworks\\FileIO\\FileIO\\asciiFile.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD39322-F040-416E-922D-118FAE9DDAF3}|FileIO\\FileIO.vcxproj|solutionrelative:FileIO\\asciiFile.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 428,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "imageCopy.c",
+              "DocumentMoniker": "C:\\cworks\\FileIO\\FileIO\\imageCopy.c",
+              "RelativeDocumentMoniker": "FileIO\\imageCopy.c",
+              "ToolTip": "C:\\cworks\\FileIO\\FileIO\\imageCopy.c*",
+              "RelativeToolTip": "FileIO\\imageCopy.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T11:47:34.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 145,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "asciiFile.c",
+              "DocumentMoniker": "C:\\cworks\\FileIO\\FileIO\\asciiFile.c",
+              "RelativeDocumentMoniker": "FileIO\\asciiFile.c",
+              "ToolTip": "C:\\cworks\\FileIO\\FileIO\\asciiFile.c",
+              "RelativeToolTip": "FileIO\\asciiFile.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-29T12:41:19.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

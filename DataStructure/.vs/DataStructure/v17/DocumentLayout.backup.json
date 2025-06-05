@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\DataStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\linkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\linkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\structStudent.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\structStudent.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\seqSearch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\seqSearch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\sortBubble.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\sortBubble.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\sortEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\sortEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\stackEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\stackEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\printBin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\printBin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\recursiveEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\recursiveEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\toggleEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\toggleEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\queueEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BAEC971-955B-4D60-A599-36559D81FB46}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\queueEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 428,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "linkedList.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\linkedList.c",
+              "RelativeDocumentMoniker": "DataStructure\\linkedList.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\linkedList.c",
+              "RelativeToolTip": "DataStructure\\linkedList.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-05T12:37:44.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "seqSearch.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\seqSearch.c",
+              "RelativeDocumentMoniker": "DataStructure\\seqSearch.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\seqSearch.c",
+              "RelativeToolTip": "DataStructure\\seqSearch.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAywDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-05T12:03:30.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sortBubble.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\sortBubble.c",
+              "RelativeDocumentMoniker": "DataStructure\\sortBubble.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\sortBubble.c",
+              "RelativeToolTip": "DataStructure\\sortBubble.c",
+              "ViewState": "AgIAACQAAAAAAAAAAAAywDYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-05T11:30:13.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sortEx.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\sortEx.c",
+              "RelativeDocumentMoniker": "DataStructure\\sortEx.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\sortEx.c",
+              "RelativeToolTip": "DataStructure\\sortEx.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-05T11:18:01.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "printBin.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\printBin.c",
+              "RelativeDocumentMoniker": "DataStructure\\printBin.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\printBin.c",
+              "RelativeToolTip": "DataStructure\\printBin.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-05T11:10:27.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "factorial.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\factorial.c",
+              "RelativeDocumentMoniker": "DataStructure\\factorial.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\factorial.c",
+              "RelativeToolTip": "DataStructure\\factorial.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAywCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-05T10:33:28.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "structStudent.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\structStudent.c",
+              "RelativeDocumentMoniker": "DataStructure\\structStudent.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\structStudent.c",
+              "RelativeToolTip": "DataStructure\\structStudent.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T12:46:53.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "recursiveEx.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\recursiveEx.c",
+              "RelativeDocumentMoniker": "DataStructure\\recursiveEx.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\recursiveEx.c",
+              "RelativeToolTip": "DataStructure\\recursiveEx.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-05T10:24:24.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "stackEx.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\stackEx.c",
+              "RelativeDocumentMoniker": "DataStructure\\stackEx.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\stackEx.c",
+              "RelativeToolTip": "DataStructure\\stackEx.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T12:11:58.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "toggleEx.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\toggleEx.c",
+              "RelativeDocumentMoniker": "DataStructure\\toggleEx.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\toggleEx.c",
+              "RelativeToolTip": "DataStructure\\toggleEx.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-05T10:17:19.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "queueEx.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\queueEx.c",
+              "RelativeDocumentMoniker": "DataStructure\\queueEx.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\queueEx.c",
+              "RelativeToolTip": "DataStructure\\queueEx.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T12:27:41.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

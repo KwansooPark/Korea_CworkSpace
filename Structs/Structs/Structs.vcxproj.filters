@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="StructPerson.c">
+    <ClCompile Include="structPerson.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="StructRef.c">
+    <ClCompile Include="structRef.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="typedefEmployee.c">
@@ -34,6 +34,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="structDateTime.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="structMalloc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="structMalloc2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
